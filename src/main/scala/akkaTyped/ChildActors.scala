@@ -1,0 +1,8 @@
+package akkaTyped
+
+object ChildActors {
+
+
+
+
+}
